@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "594508181453",
+    "firebase_url": "https://pjtest-3d1aa.firebaseio.com",
+    "project_id": "pjtest-3d1aa",
+    "storage_bucket": "pjtest-3d1aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594508181453:android:71688c722fc671e4",
+        "android_client_info": {
+          "package_name": "com.example.yuripps.camtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594508181453-bru26m94olu1vcchjeoq6mefb60cb6fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiuHIjYTxzRGBdpH6sih3ZUjPpQ8UVw9s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
